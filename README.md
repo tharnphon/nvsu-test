@@ -1,3 +1,6 @@
+## Example project structure
+
+```
 ├── .eslintrc.cjs
 ├── .expo
 │  ├── devices.json
@@ -243,3 +246,4 @@
 │  ├── numbers.ts
 │  └── pushNotification.ts
 └── yarn.lock
+```
